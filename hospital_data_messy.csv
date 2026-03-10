@@ -1,0 +1,371 @@
+PatientID,Age,Gender,BloodGroup,Hospital,Department,Diagnosis,BloodPressure,BMI,BloodGlucose(mg/dL),LengthOfStay(days),TreatmentCost(NGN),InsuranceProvider,AdmissionDate,Recovered
+PAT00209,82,Male,AB-,LUTH Marina,Pediatrics,Anemia,171/96,33.5,106.8,27,171534.34,Reliance,2024-09-06,yes
+PAT00251,6,Female,AB-,Aminu Kano Teaching Hospital,Orthopedics,Anemia,,41.9,-136.8,18,456249.5,AXA Mansard,2023-12-27,0
+PAT00300,58,Male,AB-,ATBUTH Bauchi,Orthopedics,Pneumonia,97/76,32.8,354.5,26,247277.36,Hygeia,2024-08-19,0
+PAT00200,80,Male,AB-,lagos uni hospital,General Medicine,Migraine,117 over 60,33.1,194.1,22,293930.27 naira,AXA Mansard,2024-05-19,
+PAT00295,21,Female,B+,Aminu Kano Teaching Hospital,Cardiology,Anemia,,29.4,160.8,9,148222.03,None,2024-08-22,YES
+PAT00204,8,Female,O+,ABUTH Zaria,Cardiology,Typhoid,,19.3,168.8,23,73886.42,Reliance,2023-04-16,
+PAT00097,63,Female,AB-,,Orthopedics,Malaria,153/108,16.8,324.4,20,138093.01,AXA Mansard,2023-10-25,YES
+PAT00191,11,Male,B+,ABUTH Zaria,Pediatrics,Anemia,175,30.7,1960.0,2,458016.16,Hygeia,,no
+PAT00101,1,Male,B+,Lagos University Hospital,Cardiology,Fracture,130/97,31.5,118.7,10,487998.88,AXA Mansard,2023-08-26,1
+PAT00314,75,Male,A-,LUTH Marina,Orthopedics,Fracture,126/89,36.0,122.5,0,379288.42,NHIS,2023-02-23,YES
+PAT00206,3,Female,B+,,Oncology,Malaria,133/94,34.1,352.9,20,238278.97,Leadway,2023-04-20,yes
+PAT00287,65,Male,A-,Aminu Kano Teaching Hospital,Pediatrics,Anemia,92 over 62,42.5,96.1 mg/dL,6,229080.21,Reliance,2024-12-22,yes
+PAT00205,68,Female,AB+,ATBUTH Bauchi,Pediatrics,Diabetes Type 2,103/65,17.2,219.1,25,282974.05,NHIS,2024-04-23,No
+PAT00262,42,Female,A-,Aminu Kano Teaching Hospital,General Medicine,Anemia,165/62,26.7,341.8,16,,NHIS,,yes
+PAT00173,68,Female,B+,Lagos University Hospital,Neurology,Appendicitis,91/67,26.2,294.4,9,373845.93,Leadway,2023-10-31,0
+PAT00095,12,Female,A-,Lagos University Hospital,General Medicine,Malaria,105/66,30.3,91.8,10,337174.37,None,2024-01-01,Yes
+PAT00021,23,Female,,Aminu Kano Teaching Hospital,Cardiology,Migraine,107/74,29.3,137.9,21,420044.24,NHIS,2023-10-12,Yes
+PAT00305,13,Female,A+,National Hospital Abuja,Oncology,Diabetes Type 2,127/76,28.9,173.1,2,9710.94,None,2024-02-06,1
+PAT00246,82,Male,B+,Lagos University Hospital,Cardiology,Migraine,138/62,33.5,123.8,2,214773.72 naira,NHIS,2024-11-26,yes
+PAT00129,54,Female,B+,ABUTH Zaria,Neurology,Diabetes Type 2,132/101,16.3,374.6,2,126471.39,NHIS,,1
+PAT00253,50,,A+,Lagos University Hospital,General Medicine,Fracture,169/119,27.7,-127.4,23,59104.64,NHIS,2024-03-28,YES
+PAT00255,10,Male,AB+,LUTH Marina,Orthopedics,Anemia,140/97,28.4,316.2,26,369913.47,Leadway,2024-03-11,1
+PAT00169,55,Female,B-,National Hospital Abuja,,Fracture,178/99,28.2 kg/m2,373.4,14,-90011.78,Leadway,2024-05-10,1
+PAT00180,840,Female,A+,National Hospital Abuja,Oncology,Pneumonia,122/86,15.9,320.3,,203382.01,Hygeia,,No
+PAT00156,-27,Male,B+,abuth,Neurology,Anemia,168/112,34.7,77.6,16,347906.97,Hygeia,2024-02-01,1
+PAT00141,37,,A-,LUTH Marina,Cardiology,Hypertension,94/118,41.4,155.2,12,476761.06,AXA Mansard,2024-12-03,1
+PAT00152,12,Female,B-,Lagos University Hospital,Oncology,Pneumonia,125/63,18.9,169.5,6,482335.6,NHIS,2024-11-20,yes
+PAT00319,79,Male,B+,ABUTH Zaria,Cardiology,Appendicitis,128/66,34.6,224.6,0,444115.5,AXA Mansard,2023-03-18,yes
+PAT00090,84,Female,B-,LUTH Marina,Orthopedics,Malaria,165/71,35.3,151.3,24,114881.54,NHIS,2023-02-17,1
+PAT00018,36,Female,B+,National Hospital Abuja,Orthopedics,Typhoid,101/94,,226.3,9,359363.47,Leadway,2023-05-28,1
+PAT00293,46,1,B+,UCH Ibadan,Oncology,Anemia,136/100,36.8,216.5,27,179147.21,Leadway,2023-05-27,No
+PAT00279,83,Male,B+,Lagos University Hospital,Neurology,Diabetes Type 2,143-108,40.9,118.5,5,164130.65,NHIS,2024-12-02,Yes
+PAT00092,19,Male,AB-,National Hospital Abuja,Pediatrics,Diabetes Type 2,,24.7,99.8,16,409631.36,Leadway,2023-03-26,
+PAT00283,44,Female,O+,Lagos University Hospital,Pediatrics,Pneumonia,108-71,26.1,194.2 mg/dL,18,259084.37,NHIS,2023-09-24,yes
+PAT00343,73,Male,O-,UCH Ibadan,Orthopedics,Tuberculosis,175/102,25.0,131.8,4,400891.29,AXA Mansard,2024-03-10,1
+PAT00196,47,,AB+,Lagos University Hospital,General Medicine,Typhoid,180/113,16.8,380.8,14,273321.87,NHIS,2024-07-16,
+PAT00120,22,Male,A+,National Hospital Abuja,Orthopedics,Fracture,119-61,36.1,331.6,13,260281.35,Hygeia,N/A,yes
+PAT00170,33,Female,A-,Lagos University Hospital,General Medicine,Fracture,137/74,41.3,329.0,24,,Hygeia,2023-10-29,YES
+PAT00203,75,Male,AB+,ATBUTH Bauchi,Pediatrics,Appendicitis,105-89,40.9,187.1,,,AXA Mansard,2024-07-24,YES
+PAT00332,71,Male,A-,,Neurology,Pneumonia,150/94,24.0,215.2,24,237507.01,Leadway,2024-11-25,No
+PAT00105,4,Male,O-,ATBUTH Bauchi,General Medicine,Fracture,136/110,17.9,176.8,25,148266.67,Reliance,2023-06-30,YES
+PAT00214,44,Female,AB+,Lagos University Hospital,Cardiology,Anemia,124/92,15.7,72.9,26,236995.23,Hygeia,2024-02-06,YES
+PAT00094,68,Male,AB-,LUTH Marina,Cardiology,Appendicitis,111/95,22.1,266.7 mg/dL,25,163810.59,AXA Mansard,2023-09-20,1
+PAT00324,70,,O-,lagos uni hospital,,Tuberculosis,125/118,37.1,279.3,30,412035.56,Leadway,2024-04-03,YES
+PAT00189,85,Male,A-,National Hospital Abuja,Cardiology,Hypertension,113/103,18.3,-304.9,9,323362.98,Leadway,,Yes
+PAT00072,18,Male,A+,ABUTH Zaria,Oncology,Hypertension,159/71,41.0,305.8,17,211047.84,Hygeia,,1
+PAT00297,19,Male,A-,Lagos University Hospital,Neurology,Appendicitis,105/117,37.8,,23,197083.2,Leadway,2024-07-29,
+PAT00069,74,Male,,ATBUTH Bauchi,Cardiology,Anemia,134/89,25.4,,24,65179.92,none,2024-10-29,0
+PAT00299,68,Female,O-,ABUTH Zaria,Pediatrics,Appendicitis,129/66,17.0,226.5,0,345269.09 naira,Leadway,2023-02-23,
+PAT00207,76,Male,O-,ATBUTH Bauchi,General Medicine,Typhoid,129/88,34.4,321.9,15,,NHIS,2024-06-11,0
+PAT00073,-50,Female,AB+,Aminu Kano Teaching Hospital,General Medicine,Typhoid,158/81,41.7,,3,265249.96,Leadway,2023-03-18,
+PAT00339,37,Female,A+,UCH Ibadan,Oncology,Diabetes Type 2,162,21.6,347.0,19,325644.87,AXA Mansard,2023-10-05,
+PAT00235,56,Female,B-,Aminu Kano Teaching Hospital,,Appendicitis,157/70,31.3,139.3,30,310625.08,AXA Mansard,2023-06-23,Yes
+PAT00111,50,Female,O+,ATBUTH Bauchi,Neurology,Appendicitis,161/114,34.5,285.4,7,116457.83,AXA Mansard,,Yes
+PAT00274,52,Male,O+,National Hospital Abuja,Neurology,Malaria,98/118,23.5,181.9 mg/dL,22,127501.59,Leadway,23/08/2024,yes
+PAT00172,12,Female,AB-,ATBUTH Bauchi,Cardiology,Pneumonia,122/64,,71.5,18,"NGN48,136",None,,Yes
+PAT00133,77,Male,A+,LUTH Marina,Pediatrics,Migraine,153/102,17.3,142.4,25,369573.75,,2024-09-22,yes
+PAT00184,69,Male,A-,LUTH Marina,Pediatrics,Anemia,90/79,15.3,298.8,4,463361.66,Reliance,2023-11-21,0
+PAT00245,-33,Male,B-,UCH Ibadan,Pediatrics,Migraine,141-87,23.0,258.5,28,421895.65,Reliance,2023-01-31,No
+PAT00194,19yrs,Female,A-,National Hospital Abuja,Oncology,Migraine,93/67,21.3,224.0,7,57682.74,Leadway,2023-02-28,yes
+PAT00142,59,Female,AB-,LUTH Marina,Orthopedics,Fracture,96/91,15.8,135.7,22,322154.19,NHIS,2023-08-09,No
+PAT00237,,Female,AB+,LUTH Marina,General Medicine,Migraine,153/82,,331.0,22,-320002.15,Hygeia,2024-11-08,
+PAT00140,36,Male,AB+,ATBUTH Bauchi,,Tuberculosis,93/93,22.8 kg/m2,160.7,16,280707.38,Reliance,2023-05-17,no
+PAT00078,81,Male,A+,National Hospital Abuja,Cardiology,Malaria,,36.9,377.2,11,403278.28,NHIS,2023-01-13,0
+PAT00143,25,Male,A+,ABUTH Zaria,General Medicine,Anemia,111/90,22.3,159.8,30,64445.3,Leadway,2023-03-05,0
+PAT00221,,Female,AB-,ABUTH Zaria,Pediatrics,Typhoid,104/107,39.2,118.8,14,214800.82,Reliance,,no
+PAT00056,,Male,O+,LUTH Marina,General Medicine,Appendicitis,156/113,38.7,,21,100446.28,LEADWAY,03-03-2024,Yes
+PAT00171,-37,F,,ABUTH Zaria,Orthopedics,Malaria,156/68,15.3,60.1,,207289.61,None,05/09/2024,no
+PAT00063,52,Male,B-,Aminu Kano Teaching Hospital,Orthopedics,Migraine,163/78,17.4,90.9,7,158810.53,Leadway,2023-05-04,1
+PAT00218,,Male,A-,Aminu Kano Teaching Hospital,Oncology,Pneumonia,106-93,26.2,157.4,24,181209.38,Leadway,04-20-2023,Yes
+PAT00208,16yrs,Male,A+,ATBUTH Bauchi,,Malaria,117/75,41.5,236.4,1,26092.35,NHIS,2024-03-30,No
+PAT00323,57,Male,A+,LUTH Marina,Pediatrics,Anemia,173/64,31.3,193.0,9,263922.5,None,15/05/2024,0
+PAT00020,64,Female,O-,ATBUTH Bauchi,General Medicine,Typhoid,122/115,33.5,120.0,15,239327.35,,2024-05-19,no
+PAT00350,85,Female,A+,ATBUTH Bauchi,,Hypertension,91/71,26.5,148.4,21,104162.37,,2024-11-04,YES
+PAT00034,27yrs,Male,AB-,UCH Ibadan,Orthopedics,Diabetes Type 2,115/92,38.8,342.0,24,200839.96 naira,None,2023-07-19,no
+PAT00334,79,Female,O-,Lagos University Hospital,,Anemia,178/83,21.3,121.7,1,401280.43,AXA Mansard,2023-02-11,YES
+PAT00035,29,Male,O-,ATBUTH Bauchi,Cardiology,Fracture,171 over 81,28.6,1704.0,9,364283.26,AXA Mansard,2023-01-02,yes
+PAT00217,80,Female,A+,National Hospital Abuja,Pediatrics,Malaria,103/66,23.2,,26,292879.76,NHIS,2024-08-16,1
+PAT00039,26,Female,B-,ABUTH Zaria,Oncology,Fracture,103-113,32.6,73.5,24,365150.94,None,2024-10-18,YES
+PAT00331,50,Male,AB+,National Hospital Abuja,General Medicine,Migraine,154/81,35.7,154.5,23,355846.12,None,2023-08-13,No
+PAT00121,20,Female,A-,UCH Ibadan,General Medicine,Pneumonia,,31.1,322.0,0,396613.92,Leadway,2024.10.09,1
+PAT00066,68,F,O+,,Pediatrics,Malaria,161/81,20.5,218.3,25,387920.41,Hygeia,2024-01-26,
+PAT00161,50,Female,AB-,UCH Ibadan,Neurology,Hypertension,149/83,25.7 kg/m2,257.2,,353481.32,Hygeia,2024-10-28,1
+PAT00294,29,1,A+,National Hospital Abuja,Neurology,Tuberculosis,180/79,-31.6,256.4,11,448157.89,Leadway,2024-10-23,YES
+PAT00165,69,Female,A+,LUTH Marina,Orthopedics,Tuberculosis,161/84,43.4,62.6,26,286329.57,,2023-11-11,yes
+PAT00154,14,Male,B+,Aminu Kano Teaching Hospital,General Medicine,Migraine,159/107,19.8,180.3,4,283733.72,AXA Mansard,2024-04-17,Yes
+PAT00041,57,Female,A-,,Oncology,Pneumonia,144/93,33.8,271.7,18,367536.22,AXA Mansard,2023-03-29,
+PAT00145,,Female,A-,Aminu Kano Teaching Hospital,Pediatrics,Anemia,136/62,24.7,86.4,1,174558.1,,2023.03.10,yes
+PAT00188,72,Male,O+,National Hospital Abuja,General Medicine,,177/107,15.9,270.0,27,163798.69,NHIS,2023-05-04,YES
+PAT00259,70,Female,,Lagos University Hospital,Pediatrics,Appendicitis,160/109,-33.5,196.3,9,427186.99,NHIS,2024-11-23,1
+PAT00137,54,Male,AB+,ATBUTH Bauchi,Cardiology,Migraine,142/91,,-278.6,16,169192.66,Reliance,2024-08-04,No
+PAT00330,50,Male,O-,ATBUTH Bauchi,Neurology,Malaria,153/119,,74.2,11,110196.52,Leadway,,1
+PAT00226,-80,Male,AB+,UCH Ibadan,Neurology,Diabetes Type 2,129/120,170.0,-350.8,18,473167.55,None,11/06/2023,YES
+PAT00084,65,Male,B+,UCH Ibadan,Neurology,Diabetes Type 2,104/86,27.6,124.6,25,250278.27,Hygeia,2024-04-03,no
+PAT00324,70,,O-,lagos uni hospital,,Tuberculosis,125/118,37.1,279.3,30,412035.56,Leadway,2024-04-03,YES
+PAT00078,81,Male,A+,National Hospital Abuja,Cardiology,Malaria,,36.9,377.2,11,403278.28,NHIS,2023-01-13,0
+PAT00328,49yrs,,A+,National Hospital Abuja,Orthopedics,Tuberculosis,170-116,38.8,383.1,20,257028.46,None,2023-07-15,
+PAT00273,26,Female,O-,Aminu Kano Teaching Hospital,General Medicine,Anemia,107/80,40.2,357.4,,239248.6,Reliance,2023-11-07,1
+PAT00081,56,female,AB-,UCH Ibadan,Cardiology,Migraine,174/117,35.6 kg/m2,284.4,6,151425.89,Reliance,2023-04-30,
+PAT00007,38,Female,AB+,National Hospital Abuja,Pediatrics,Diabetes Type 2,105/102,23.4,207.1,28 days,237335.73,Leadway,2024-06-20,no
+PAT00278,-84,Female,AB-,ABUTH Zaria,Orthopedics,Anemia,90/99,18.6,310.4,3,30837.49,none,2024-01-16,
+PAT00308,9,0,AB-,Lagos University Hospital,Neurology,Appendicitis,145/95,42.8,282.1,3,288885.47 naira,,05/05/2024,0
+PAT00116,,Female,O-,LUTH Marina,Neurology,Malaria,101/67,44.7,123.6,16,468603.79,Reliance,2024-01-11,No
+PAT00079,6,F,A-,ATBUTH Bauchi,Cardiology,Tuberculosis,147/98,42.3,189.9,1,264338.36,Reliance,2024-09-07,yes
+PAT00126,49,Male,O-,Lagos University Hospital,Oncology,Diabetes Type 2,120/75,33.5,253.5,,307173.35,None,2023-02-04,no
+PAT00248,70,,A+,UCH Ibadan,General Medicine,Malaria,140/83,26.1,132.2,13,-18341.6,Hygeia,2024-09-21,no
+PAT00055,35,Male,O+,National Hospital Abuja,Pediatrics,Tuberculosis,136/115,35.7,165.4,-16,459265.14,Reliance,2023-12-26,No
+PAT00026,43,Male,O-,National Hospital Abuja,General Medicine,Anemia,93/118,43.4,-268.1,-24,280919.19,nhis,2023-07-04,yes
+PAT00256,23,Male,B+,ABUTH Zaria,Neurology,,,18.2,177.5,11,418115.25,,2024-05-22,Yes
+PAT00236,1,Female,B-,ATBUTH Bauchi,Orthopedics,Malaria,109/115,27.3,182.0,15,20527.14,Leadway,2024-11-28,no
+PAT00113,-14,Female,O+,ATBUTH,Pediatrics,Pneumonia,166/68,33.7,3028.0,22,235460.93,NHIS,2024-11-22,no
+PAT00336,,Male,O-,ABUTH Zaria,Orthopedics,Appendicitis,139/98,36.9,219.2,26,136112.86,Hygeia,,YES
+PAT00124,30,Female,,ABUTH Zaria,Oncology,Appendicitis,129/100,17.5,218.7,,134140.15,None,2023-07-24,No
+PAT00153,85,Female,O+,Aminu Kano Teaching Hospital,Cardiology,Fracture,144/66,16.7,151.1,1,86086.35,,2023-07-12,0
+PAT00174,42,MALE,B+,ABUTH Zaria,Oncology,Typhoid,110/90,40.1,327.4,11,241634.42,AXA Mansard,05-27-2024,Yes
+PAT00117,27,Male,B+,Aminu Kano Teaching Hospital,Oncology,Malaria,116,440.0,319.5,24,274221.11,Leadway,2023-03-16,Yes
+PAT00231,640,Female,B+,Aminu Kano Teaching Hospital,Neurology,Appendicitis,169/103,34.8,324.1,16,191668.61,Hygeia,2023-04-12,0
+PAT00146,63,Female,AB+,ATBUTH Bauchi,General Medicine,Tuberculosis,152/96,21.7,353.2,11,372213.31,NHIS,26/09/2023,YES
+PAT00325,46,Female,AB+,National Hospital Abuja,Oncology,Fracture,135,37.3,334.6,29,31106.42,Hygeia,2024-08-16,no
+PAT00313,38,Female,O+,Aminu Kano Teaching Hospital,Cardiology,,93/114,35.4,283.0,19 days,464943.88,NHIS,2024-09-24,yes
+PAT00014,81,Female,B-,ATBUTH Bauchi,Neurology,Fracture,163/79,33.8,268.8,20,484202.07,None,2023-06-11,Yes
+PAT00052,11,Female,B-,,General Medicine,Malaria,99/72,21.0,355.3,13,26894.02,AXA Mansard,2023-07-03,YES
+PAT00177,36,Male,AB+,Aminu Kano Teaching Hospital,Neurology,Fracture,146/67,40.3,-264.3,26,220472.3,Leadway,2024-02-02,yes
+PAT00321,52,Male,B-,ATBUTH,Cardiology,Anemia,129/73,44.7,139.8,,147320.03,AXA Mansard,20/11/2024,0
+PAT00003,26,Female,A-,UCH Ibadan,General Medicine,Hypertension,104/120,42.1,253.2 mg/dL,30,75174.11,Hygeia,11-18-2024,yes
+PAT00303,64,Male,,UCH Ibadan,Cardiology,Diabetes Type 2,102/64,36.0,3013.0,-27,375402.23,NHIS,2023-09-26,1
+PAT00234,-10,Male,B+,Lagos University Hospital,Orthopedics,Diabetes Type 2,177/65,25.0,271.5,29,494976.92,AXA Mansard,N/A,0
+PAT00020,64,Female,O-,ATBUTH Bauchi,General Medicine,Typhoid,122/115,33.5,120.0,15,239327.35,,2024-05-19,no
+PAT00029,12,Female,AB-,ABUTH Zaria,Neurology,Malaria,,43.2,178.5,10,129480.54,None,2024-03-02,0
+PAT00277,79,Male,B+,UCH Ibadan,Orthopedics,Tuberculosis,99/62,-31.3,241.6,,124884.71,Leadway,2023-02-20,no
+PAT00006,15,Female,B+,Aminu Kano Teaching Hospital,General Medicine,Malaria,108/87,247.0,247.6,21,8143.92,NHIS,2024-07-07,1
+PAT00145,,Female,A-,Aminu Kano Teaching Hospital,Pediatrics,Anemia,136/62,24.7,86.4,1,174558.1,,2023.03.10,yes
+PAT00237,,Female,AB+,LUTH Marina,General Medicine,Migraine,153/82,,331.0,22,-320002.15,Hygeia,2024-11-08,
+PAT00002,42,Male,O-,ABUTH Zaria,Neurology,Malaria,166 over 116,33.4,120.3,16,111885.83,NHIS,2023-07-27,YES
+PAT00016,65,Male,O+,,General Medicine,Anemia,133 over 62,22.0,126.1,5 days,108565.81,NHIS,2023-01-07,1
+PAT00220,12,Female,,Lagos University Hospital,Neurology,Tuberculosis,93/62,40.7,384.5,17,208733.47,Reliance,2024-10-05,0
+PAT00269,,Male,O-,LUTH Marina,Oncology,Tuberculosis,111/111,,275.9,23 days,10786.66,Hygeia,2023-11-03,0
+PAT00074,2,Female,AB-,ABUTH Zaria,Cardiology,Hypertension,101/68,43.4,,28,245895.07,Hygeia,2024-11-23,0
+PAT00089,61,Male,A-,Aminu Kano Teaching Hospital,Cardiology,Fracture,142/85,31.6,347.6,18,"NGN469,134",Hygeia,2024-07-27,YES
+PAT00338,-40,Female,AB-,UCH Ibadan,Pediatrics,Diabetes Type 2,97/85,27.3,287.4,12,415274.57,AXA Mansard,2024.03.25,No
+PAT00149,3,Female,O-,National Hospital Abuja,General Medicine,Anemia,149/90,35.9,85.4,24,279787.88,AXA Mansard,2024-12-23,no
+PAT00215,8,Female,O+,ABUTH Zaria,Orthopedics,Anemia,177/87,29.0,225.2,12 days,422255.76,Hygeia,2023-10-22,Yes
+PAT00186,33,Female,B+,,Pediatrics,Diabetes Type 2,174/67,-15.7,127.2,11,,Reliance,2023-02-07,YES
+PAT00219,49,Female,AB-,Aminu Kano Teaching Hospital,General Medicine,Anemia,175/118,16.5,311.3,22,129894.13,None,2023-04-15,No
+PAT00249,120,Male,A-,Aminu Kano Teaching Hospital,Pediatrics,Fracture,93/83,42.8,323.0,-20,210648.76,NHIS,2024-08-04,Yes
+PAT00053,69,Female,O+,National Hospital Abuja,Pediatrics,Malaria,114/60,43.8,260.4,16,44486.8,AXA Mansard,2024-06-03,no
+PAT00298,34,Female,,,Pediatrics,,119/70,,95.5,20 days,169375.33,NHIS,03-28-2023,YES
+PAT00178,48,Male,AB+,National Hospital Abuja,General Medicine,Tuberculosis,118/76,27.2 kg/m2,125.4,28,"NGN316,791",AXA Mansard,2023-05-03,0
+PAT00203,75,Male,AB+,ATBUTH Bauchi,Pediatrics,Appendicitis,105-89,40.9,187.1,,,AXA Mansard,2024-07-24,YES
+PAT00211,35,Male,O+,LUTH Marina,Neurology,Fracture,149/79,36.0,100.5,16,416584.96,AXA Mansard,05-17-2024,0
+PAT00157,11,F,,ABUTH Zaria,Orthopedics,Malaria,149-71,34.4,340.4 mg/dL,5,111459.84,AXA,2023-09-26,No
+PAT00289,46,Female,O+,Aminu Kano Teaching Hospital,Pediatrics,Pneumonia,148/115,26.5,243.9,13,362116.67,NHIS,02-17-2024,
+PAT00192,36,Male,O-,AKTH,Oncology,Malaria,94-88,41.5,263.5,15,16155.79,AXA Mansard,,Yes
+PAT00304,-31,Male,O+,National Hospital Abuja,Pediatrics,,128/118,23.8,219.6,28,174425.86,AXA Mansard,2023-12-25,0
+PAT00340,-57,Male,O-,National Hospital Abuja,Neurology,Migraine,138/93,20.4,,,110867.11,Reliance,2024-08-30,0
+PAT00288,65,Female,B+,LUTH Marina,Neurology,Migraine,142,24.2,259.0,23,249651.4,NHIS,2024-05-04,yes
+PAT00252,71,Male,AB+,UCH Ibadan,Cardiology,Anemia,94/103,38.3,143.5,11,204207.23,Reliance,2023-05-30,YES
+PAT00088,84,,B-,UCH Ibadan,Cardiology,Fracture,139/111,30.2,,,266916.06,None,2024-06-23,yes
+PAT00265,25,Female,A-,Lagos University Hospital,Pediatrics,Hypertension,154/83,31.7,298.7,26,"NGN356,663",NHIS,2023-06-21,1
+PAT00114,18,Male,AB-,Lagos University Hospital,Neurology,Diabetes Type 2,93/120,18.4 kg/m2,62.0,15,480867.64,NHIS,2024-02-17,
+PAT00139,70,Female,O+,LUTH Marina,,Malaria,113/90,27.9,247.2,2,292338.02,NHIS,2023-10-19,1
+PAT00280,40,Male,A-,ABUTH Zaria,General Medicine,Fracture,124/115,25.8,87.9,19,379696.16,NHIS,2024-08-24,Yes
+PAT00085,73,Female,O-,LUTH Marina,Pediatrics,,159/68,40.8,326.8,6,238789.62,AXA Mansard,2024-02-13,1
+PAT00348,43,Female,A-,,Cardiology,Tuberculosis,164/95,30.0,320.1,3,,Hygeia,2023-08-24,yes
+PAT00103,62,Female,,,Orthopedics,Malaria,132/87,23.8,330.6,8,,None,2024-06-26,yes
+PAT00285,55,Female,AB-,Aminu Kano Teaching Hospital,Orthopedics,Tuberculosis,119/116,31.8,359.3,9,246289.63,Reliance,2024-03-13,No
+PAT00050,74,Male,O-,National Hospital Abuja,Pediatrics,Diabetes Type 2,141,27.8,232.2,24 days,487135.45,NHIS,2023-09-15,YES
+PAT00263,61,Female,AB+,UCH Ibadan,Cardiology,Typhoid,135/119,22.6,215.3,,275397.58,Hygeia,2023-07-13,Yes
+PAT00318,68,Female,O-,Lagos University Hospital,Pediatrics,Migraine,127/102,23.1,380.4,7,343077.21,Hygeia,2024-03-01,1
+PAT00100,74,Male,B+,Aminu Kano Teaching Hospital,Pediatrics,Hypertension,154,29.8,281.0,,298310.06,AXA Mansard,2024-11-28,YES
+PAT00099,54yrs,female,A+,Lagos University Hospital,Oncology,Pneumonia,126/119,35.3,378.9,,349703.95,None,2023-02-23,No
+PAT00013,72,Female,O-,NHA,Orthopedics,Appendicitis,153/108,17.9,345.1,27,352858.31,NHIS,2024-04-30,No
+PAT00223,47,Male,B+,Aminu Kano Teaching Hospital,Orthopedics,Fracture,164/69,,188.5,5,144684.1,Leadway,2024-12-11,
+PAT00150,19,Male,A+,UCH Ibadan,Cardiology,Pneumonia,155/77,15.6,289.4,10,107390.73,Reliance,2024-10-11,yes
+PAT00040,72,Female,A+,Lagos University Hospital,Orthopedics,Tuberculosis,168/108,15.4,244.3,4,290961.24,Reliance,2023-06-10,1
+PAT00322,14,mal,AB-,ABUTH Zaria,Oncology,Tuberculosis,178/90,40.6,94.7,1,300805.69,AXA Mansard,,No
+PAT00301,38,Male,B-,National Hospital Abuja,Pediatrics,Hypertension,157/106,23.1,203.4,23,452640.67,Hygeia,2024-07-02,Yes
+PAT00306,62,Male,AB+,ABUTH Zaria,Oncology,Typhoid,102-90,35.0,370.0,23,452347.23,,2024-07-12,1
+PAT00290,83,Female,O-,ABUTH Zaria,Oncology,Anemia,142/91,33.0,280.6,30,"NGN60,482",NHIS,03-14-2023,Yes
+PAT00067,32,Male,AB+,Lagos University Hospital,Orthopedics,Pneumonia,117/77,33.2,172.5,22,243154.84,,2024-12-30,No
+PAT00345,74,Male,AB+,ATBUTH Bauchi,Neurology,Malaria,,25.2,148.2,20,47994.07,Hygeia,2023-02-18,No
+PAT00043,69,Female,A+,UCH Ibadan,Neurology,Diabetes Type 2,101/61,29.3,296.1,21,150000.41,,,0
+PAT00164,63,Female,B-,UCH Ibadan,Neurology,Anemia,110/105,289.0,302.0,3,276902.87,Reliance,2024-12-05,yes
+PAT00271,85,Male,B-,,Pediatrics,Malaria,147/64,26.2,149.1,25,378877.15,Reliance,24/04/2023,1
+PAT00019,4,Male,O+,Lagos University Hospital,,Migraine,174/106,34.1,62.5,30,266424.29,AXA Mansard,2023-11-25,
+PAT00131,65,Female,,Aminu Kano Teaching Hospital,Orthopedics,Anemia,166/119,21.1,91.7,13,335702.35,,2023-12-12,YES
+PAT00309,36,Male,O+,National Hospital Abuja,Oncology,Hypertension,117/111,18.0,101.7,26,365187.51,Hygeia,2023-02-11,Yes
+PAT00123,7,Female,B-,LUTH Marina,Cardiology,Malaria,121/72,33.1,336.5,30,457892.85,Leadway,2023-04-09,no
+PAT00212,21,Female,A+,National Hospital Abuja,Orthopedics,Migraine,121/103,17.6,337.8,12,75494.59,NIL,05/02/2023,no
+PAT00227,1,Male,B+,ABUTH Zaria,General Medicine,Fracture,143/68,42.9,247.6,16,439533.69,Leadway,2024-02-02,YES
+PAT00004,,Female,AB-,ATBUTH Bauchi,General Medicine,Hypertension,134/91,34.4,319.8,2,421426.26,NHIS,2024-12-03,yes
+PAT00337,77,,B+,Aminu Kano Teaching Hospital,Pediatrics,Diabetes Type 2,,20.6,231.0,-2,37417.35,Reliance,2023-11-27,no
+PAT00257,62,Female,B-,UCH Ibadan,Neurology,Migraine,,33.3,315.4,20,311628.44,hygeia HMO,2024-10-22,yes
+PAT00293,46,1,B+,UCH Ibadan,Oncology,Anemia,136/100,36.8,216.5,27,179147.21,Leadway,2023-05-27,No
+PAT00009,72,Male,O-,Aminu Kano Teaching Hospital,Pediatrics,Migraine,179/120,29.6,186.5,5,354160.96,None,2024-01-03,1
+PAT00282,43,Male,B+,LUTH Marina,Neurology,Anemia,127/62,44.0,83.7,29,169056.77,Hygeia,2023-01-06,
+PAT00134,14,Male,O+,Aminu Kano Teaching Hospital,Pediatrics,Anemia,113/99,199.0,348.7,26,140847.74,Leadway,2023-03-25,YES
+PAT00132,35,Male,AB-,LUTH Marina,Neurology,Anemia,163/114,36.7,,28,,NHIS,2024.08.27,0
+PAT00111,50,Female,O+,ATBUTH Bauchi,Neurology,Appendicitis,161/114,34.5,285.4,7,116457.83,AXA Mansard,,Yes
+PAT00167,25,Male,O+,National Hospital Abuja,Orthopedics,Hypertension,127/60,37.8,106.1,1,230474.59,AXA Mansard,2024-01-14,1
+PAT00248,70,,A+,UCH Ibadan,General Medicine,Malaria,140/83,26.1,132.2,13,-18341.6,Hygeia,2024-09-21,no
+PAT00281,83,Male,A-,ABUTH Zaria,Cardiology,Diabetes Type 2,140/60,,-100.2,15,,AXA Mansard,2024-05-30,no
+PAT00202,78,Male,AB-,LUTH Marina,,Malaria,106/80,18.7 kg/m2,72.9,8,137528.78,Reliance,2024-09-29,Yes
+PAT00193,14,Male,B-,ATBUTH Bauchi,Orthopedics,Diabetes Type 2,180/101,19.7,226.2,8,203887.39,NIL,2023-11-30,0
+PAT00232,52,Male,B+,National Hospital Abuja,Pediatrics,Malaria,106 over 73,36.1,369.8 mg/dL,8,432999.92,Leadway,2023-07-27,
+PAT00261,42,,A+,Lagos University Hospital,Neurology,Pneumonia,157/100,33.5,231.6,12,458595.14,Reliance,2023-02-06,0
+PAT00158,55,Male,A+,UCH Ibadan,Neurology,,94/90,41.7,275.3,7,321530.95,Leadway,2023-06-17,no
+PAT00284,83,Male,O-,LUTH Marina,Oncology,Appendicitis,157,19.5,293.6,18,238881.27,Reliance,2024-04-29,0
+PAT00344,3,Female,O-,National Hospital Abuja,Cardiology,Migraine,172/116,42.8,150.5,,341701.14,None,2023-09-07,yes
+PAT00327,63,Female,AB-,National Hospital Abuja,Orthopedics,Migraine,115/71,30.6,161.3,17,261210.42,Leadway,2023-01-23,no
+PAT00260,73,Female,AB-,ABUTH Zaria,Cardiology,Diabetes Type 2,109/109,26.1,197.0,24,"NGN352,088",Reliance,2023-07-13,no
+PAT00243,34,Female,A+,UCH Ibadan,Pediatrics,Pneumonia,118,17.3,122.9,,399293.42,None,2023-04-21,Yes
+PAT00061,68,Female,A-,Lagos University Hospital,Pediatrics,Malaria,174/109,44.8,254.5,19,341021.76,Reliance,2023-05-29,1
+PAT00059,16,Male,O+,National Hospital Abuja,,Hypertension,179/66,41.9,304.3,4,256186.46,Leadway,2023-05-17,No
+PAT00268,56,Male,AB+,,Oncology,Pneumonia,109/72,15.3,123.1,19,20171.41,AXA Mansard,15/04/2024,YES
+PAT00346,10,MALE,AB-,Lagos University Hospital,Orthopedics,Typhoid,180/94,35.2,384.1,1,443985.99,Reliance,2023-06-11,No
+PAT00335,34,Female,AB-,Aminu Kano Teaching Hospital,Neurology,Pneumonia,133/68,201.0,396.1,4,184196.08,NHIS,2024-07-22,1
+PAT00030,71,Female,A+,UCH Ibadan,Neurology,Appendicitis,155/83,27.7,372.3,11,33366.0,AXA Mansard,2024-09-25,YES
+PAT00025,24,Female,O-,Aminu Kano Teaching Hospital,Oncology,Malaria,179/78,39.4,69.4,6,300779.15,AXA Mansard,2024-05-14,1
+PAT00198,28,Male,,UCH Ibadan,Neurology,Anemia,172/79,44.0,358.3,26,286077.77,AXA Mansard,2024-05-12,Yes
+PAT00266,63,Male,B-,ABUTH Zaria,Oncology,Appendicitis,163-87,39.9,220.6,7,92994.72,Reliance,14/07/2024,No
+PAT00229,58,Female,AB+,LUTH Marina,Oncology,Typhoid,147/91,36.7,1644.0,9,395044.1,Hygeia,2023.06.10,0
+PAT00071,52,Female,O-,LUTH Marina,Oncology,Malaria,96/110,25.6,98.6,21,300402.12,,2023-10-11,0
+PAT00256,23,Male,B+,ABUTH Zaria,Neurology,,,18.2,177.5,11,418115.25,,2024-05-22,Yes
+PAT00166,52,Female,AB+,ATBUTH Bauchi,Oncology,Typhoid,124/118,32.0,381.8,10,-73533.84,None,05-02-2023,YES
+PAT00031,34,Male,B-,UCH Ibadan,Neurology,Tuberculosis,171/89,24.9,69.6 mg/dL,11,149880.28,NHIS,2024-01-21,Yes
+PAT00181,68,Female,AB+,Lagos University Hospital,Cardiology,Hypertension,133/120,35.0,275.5,20,426683.95,None,2023-06-12,
+PAT00008,61,,AB-,Aminu Kano Teaching Hospital,Oncology,Tuberculosis,147/120,28.5,306.9,20,356890.89,AXA Mansard,2023-02-03,Yes
+PAT00047,-43,Male,B+,ABUTH Zaria,Pediatrics,Hypertension,152/103,22.7,129.7,5,223654.89,Hygeia,2023-11-30,No
+PAT00228,7,Female,A+,UCH Ibadan,General Medicine,Migraine,104/95,43.8,181.9,4,195066.88,NHIS,18/08/2024,yes
+PAT00136,80,Female,O+,ABUTH Zaria,Pediatrics,Diabetes Type 2,151/104,15.0,103.5,13,311785.54,None,2023-11-19,Yes
+PAT00042,77,,AB-,ABUTH Zaria,Pediatrics,Tuberculosis,92/97,39.0,3262.0,10,293443.06,NHIS,2024-12-20,no
+PAT00038,11,Male,A+,National Hospital Abuja,Pediatrics,Typhoid,151 over 108,34.5,210.0,-21,104556.03,Leadway,2024-10-19,no
+PAT00128,77,Male,AB-,ATBUTH Bauchi,Orthopedics,Hypertension,172/61,,238.5,17,236319.82,NHIS,2023-05-25,
+PAT00195,18,Female,A-,,Cardiology,Pneumonia,180/69,15.9,108.8,30,232986.07,None,2023-05-01,YES
+PAT00233,69,Male,AB+,National Hospital Abuja,General Medicine,Migraine,120/96,42.3,299.1,2,386533.81,NHIS,2023-10-07,Yes
+PAT00110,-15,,O-,ABUTH Zaria,Oncology,Tuberculosis,93/95,23.4,274.8,16,291944.72,Hygeia,2023-09-16,no
+PAT00017,1,Male,AB-,ATBUTH Bauchi,Cardiology,Tuberculosis,135 over 61,22.4,,15,34796.24,NHIS,2023-05-15,
+PAT00291,280,Female,A-,ABUTH Zaria,Oncology,Hypertension,141/70,24.9,329.1,24,140225.5,,2023-03-31,0
+PAT00068,29,Female,,,Oncology,Fracture,,23.3,359.4,13,154846.26,Reliance,2024-01-03,no
+PAT00244,77,Male,AB-,UCH Ibadan,General Medicine,Hypertension,145/63,21.0,258.3,29,282304.82,Leadway,2024-05-17,0
+PAT00147,10,Female,O-,Aminu Kano Teaching Hospital,General Medicine,Tuberculosis,122/79,30.6,334.1,14,255979.27,None,2023-02-02,Yes
+PAT00118,12,Female,B+,Lagos University Hospital,Orthopedics,Anemia,176/69,21.7,190.4,16,456175.76,Hygeia,2024-10-20,yes
+PAT00022,25,Female,B+,ATBUTH Bauchi,Pediatrics,Tuberculosis,112/84,,360.7,6,-83749.18,Reliance,2023-07-28,YES
+PAT00302,39,m,AB+,LUTH Marina,Orthopedics,Tuberculosis,169/91,41.3,115.7,30,80761.16,Leadway,2024-10-12,No
+PAT00127,74,Male,O+,Lagos University Hospital,Pediatrics,Typhoid,104/84,34.7,165.9,28,433898.02,AXA Mansard,2024-08-02,no
+PAT00046,28,Female,A+,ABUTH Zaria,General Medicine,Pneumonia,135/103,,123.0,12,86423.36,AXA Mansard,2024-11-26,
+PAT00058,71,Male,B-,LUTH Marina,Pediatrics,Typhoid,164/120,40.8,307.6,11,226796.81,Leadway,2024-08-01,no
+PAT00001,33,Male,AB-,Lagos University Hospital,Neurology,Fracture,124/85,28.1,279.4,28,452790.67,None,,1
+PAT00122,4,Female,A+,ABUTH Zaria,Oncology,Hypertension,,,276.7,8,318015.53,Hygeia,2023-05-04,yes
+PAT00250,9,Male,A+,abuth,Cardiology,Anemia,,32.5,127.5,14,445304.2,NHIS,18/12/2023,
+PAT00107,31,Male,,Aminu Kano Teaching Hospital,Oncology,Anemia,119/104,25.1,68.1,13 days,50553.83,None,2023-06-11,no
+PAT00066,68,F,O+,,Pediatrics,Malaria,161/81,20.5,218.3,25,387920.41,Hygeia,2024-01-26,
+PAT00342,57,Male,A-,Lagos University Hospital,Neurology,Migraine,120/103,35.1,222.4,14,260243.87,Hygeia,2023-08-17,no
+PAT00080,46,Female,A-,National Hospital Abuja,Cardiology,Fracture,180/117,28.1,,24 days,473026.42,NHIS,2023-04-05,yes
+PAT00144,3,Female,B+,Lagos University Hospital,,Anemia,92/67,18.0,3412.0,11,406711.95,NHIS,2024-02-22,Yes
+PAT00329,22,Female,B+,ATBUTH Bauchi,General Medicine,Typhoid,92/90,29.4,252.3,13,49425.28,Reliance,2023-02-04,yes
+PAT00027,42,Female,O-,National Hospital Abuja,General Medicine,Appendicitis,150/60,21.9,3238.0,5,102456.65,AXA Mansard,2024-02-11,1
+PAT00213,,Male,O-,Lagos University Hospital,Neurology,Hypertension,159/88,21.5,202.8,23 days,61687.35,Leadway,2023-04-11,
+PAT00065,78,Female,B-,National Hospital Abuja,General Medicine,Appendicitis,112/81,27.5,213.9,1,172563.1,Hygeia,2024-09-15,Yes
+PAT00239,49yrs,Male,O+,LUTH Marina,Orthopedics,Anemia,180/71,43.8,367.3,17,174015.32,AXA Mansard,2023-07-30,Yes
+PAT00106,2yrs,Female,AB+,UCH Ibadan,,Malaria,130/108,41.7,301.7,27,494798.32,Hygeia,2024-03-11,
+PAT00108,120,Male,AB+,ABUTH Zaria,Cardiology,Hypertension,93/73,38.0,276.0,2,"NGN184,210",,2023-11-15,0
+PAT00247,23yrs,1,O-,UCH Ibadan,Oncology,,180/84,43.9,169.9,11,17612.07,,2024-12-21,0
+PAT00216,67,Female,B+,UCH Ibadan,Oncology,Anemia,140-80,43.5,277.0,12,192587.57,Leadway,2023-01-17,0
+PAT00048,12,Female,O-,ABUTH Zaria,Cardiology,Pneumonia,149/115,25.8,2210.0,28,258816.28,Hygeia,2023-03-28,no
+PAT00238,5,Female,O-,UCH Ibadan,Neurology,,101/72,27.1,142.8,2,152654.5,none,2024-10-12,Yes
+PAT00232,52,Male,B+,National Hospital Abuja,Pediatrics,Malaria,106 over 73,36.1,369.8 mg/dL,8,432999.92,Leadway,2023-07-27,
+PAT00012,19,Male,AB-,National Hospital Abuja,General Medicine,Malaria,96/99,36.9,109.1,28,336082.06,NHIS,2024-06-10,
+PAT00045,13,Male,B+,LUTH Marina,,Anemia,97/118,41.7,69.7,2,374271.42,NHIS,2024-11-21,0
+PAT00187,49,Male,A+,Lagos University Hospital,Cardiology,Diabetes Type 2,151/102,37.6,254.8,0,429587.5,NHIS,2023-12-24,yes
+PAT00083,33,Female,B-,National Hospital Abuja,Neurology,Pneumonia,121/70,22.9,149.9,30,285114.24,,2023-08-18,no
+PAT00296,45,Male,AB-,LUTH Marina,General Medicine,Fracture,95/100,38.7,100.7,25,405866.13,AXA Mansard,2023-05-25,1
+PAT00310,38,Female,AB+,LUTH Marina,Oncology,Malaria,145,,98.1,1,191713.01,Hygeia,2023-11-06,YES
+PAT00024,50,Male,B-,National Hospital Abuja,Neurology,Pneumonia,144/115,18.9,124.7 mg/dL,19,77541.82 naira,Hygeia,2023-04-19,
+PAT00182,51,Male,B+,National Hospital Abuja,General Medicine,Appendicitis,112/91,36.1,346.8,29,287132.3,Leadway,04-23-2023,No
+PAT00179,62,Female,A+,UCH Ibadan,Cardiology,Tuberculosis,142/76,35.8,225.1,2,18200.13,Hygeia,2024-01-16,0
+PAT00011,31,Female,O+,Lagos University Hospital,Neurology,Appendicitis,111/83,42.6,126.6,21,459141.42,Reliance,2023-09-25,Yes
+PAT00082,16,Male,AB-,Aminu Kano Teaching Hospital,General Medicine,Fracture,151/63,29.7,233.8,10,236480.67,Leadway,2023-06-22,1
+PAT00060,45,Female,A+,LUTH Marina,,Tuberculosis,94/65,19.3,,19,377264.34,None,2024-08-25,yes
+PAT00272,72,Male,,Aminu Kano Teaching Hospital,Neurology,Fracture,179,43.2,302.5,,"NGN5,255",AXA Mansard,2023-11-12,YES
+PAT00311,23,MALE,AB+,Lagos University Hospital,Neurology,Hypertension,130 over 103,35.9,281.6,10,,Reliance,2023-10-07,1
+PAT00054,14,Female,AB+,Lagos University Hospital,Oncology,Malaria,155/98,39.1,270.5,1,69158.63,None,05/10/2024,
+PAT00240,17,,B-,ABUTH Zaria,Orthopedics,Tuberculosis,133/80,42.2,163.7,23,68147.75,Leadway,2023-06-14,
+PAT00049,13,Female,B+,National Hospital Abuja,Orthopedics,Pneumonia,125/96,29.9,336.3,5,373599.49,Reliance,2024-06-14,No
+PAT00326,61,Male,A+,ATBUTH Bauchi,Oncology,Anemia,100/89,33.3,93.6,6,296127.83,AXA Mansard,2024-04-27,YES
+PAT00060,45,Female,A+,LUTH Marina,,Tuberculosis,94/65,19.3,,19,377264.34,None,2024-08-25,yes
+PAT00175,41,Female,,LUTH Marina,General Medicine,Pneumonia,127/82,23.3,106.3,17,416239.55,Hygeia,2024-02-09,1
+PAT00021,23,Female,,Aminu Kano Teaching Hospital,Cardiology,Migraine,107/74,29.3,137.9,21,420044.24,NHIS,2023-10-12,Yes
+PAT00333,55,Female,AB-,ATBUTH Bauchi,Cardiology,Malaria,105/77,19.0,104.9,23,85237.83,AXA Mansard,2024-10-04,YES
+PAT00183,65,Female,B-,ABUTH Zaria,Orthopedics,Fracture,173/80,31.2,394.6,8,215691.97,AXA Mansard,2023.12.03,Yes
+PAT00091,13,Male,AB-,LUTH Marina,Oncology,Appendicitis,149/62,43.4,248.1,25,79989.46,,02-16-2023,0
+PAT00210,17,Female,A-,ATBUTH Bauchi,Pediatrics,Appendicitis,165/75,32.8,113.5,9,193040.41,Leadway,2023-04-16,no
+PAT00185,52,Female,AB+,lagos uni hospital,General Medicine,Fracture,161/104,29.7,202.5,10,357509.25,Reliance,,0
+PAT00028,16,Male,O-,UCH Ibadan,Cardiology,Fracture,165/75,,169.1 mg/dL,11,383067.41,,2023-03-04,no
+PAT00349,,Female,A-,ATBUTH Bauchi,Cardiology,Appendicitis,118/117,22.8,208.3,8,190105.25,Leadway,2024-08-01,No
+PAT00190,40,Male,A-,UCH Ibadan,General Medicine,Hypertension,180/115,19.1,391.3,13,424094.78,Reliance,2023-09-20,0
+PAT00275,13,Female,O-,Aminu Kano Teaching Hospital,Cardiology,Diabetes Type 2,158/102,20.2,351.9 mg/dL,8,137551.99,None,2023-02-23,no
+PAT00138,38,Female,AB+,UCH Ibadan,Neurology,Fracture,109/115,24.6,382.9,3,132461.99,Hygeia,2024-07-09,
+PAT00159,,Female,AB-,LUTH Marina,Oncology,Hypertension,107/120,31.5,363.8,,146661.85,None,2024-06-10,YES
+PAT00160,14,Male,B+,ATBUTH Bauchi,Pediatrics,Typhoid,137/67,41.0,288.4,8,399959.28,Reliance,2024-04-21,0
+PAT00189,85,Male,A-,National Hospital Abuja,Cardiology,Hypertension,113/103,18.3,-304.9,9,323362.98,Leadway,,Yes
+PAT00197,7,Female,B-,LUTH Marina,Pediatrics,Migraine,145/62,21.0,199.1,,143821.07,AXA Mansard,2024-06-10,No
+PAT00292,33,Male,B+,ABUTH Zaria,Pediatrics,Diabetes Type 2,122/84,43.7,297.1,16,-331337.03,Hygeia,,No
+PAT00319,79,Male,B+,ABUTH Zaria,Cardiology,Appendicitis,128/66,34.6,224.6,0,444115.5,AXA Mansard,2023-03-18,yes
+PAT00120,22,Male,A+,National Hospital Abuja,Orthopedics,Fracture,119-61,36.1,331.6,13,260281.35,Hygeia,N/A,yes
+PAT00267,74,Male,AB+,ATBUTH Bauchi,Orthopedics,Malaria,156/110,39.2,177.4,24,"NGN65,554",Reliance,2023-03-08,1
+PAT00148,5,Male,AB-,Lagos University Hospital,Neurology,Malaria,161 over 70,34.6,320.3,5,393395.36,None,2024-06-18,Yes
+PAT00087,8,Male,AB-,,Pediatrics,Pneumonia,147/84,23.9,209.3,16,,Leadway,2023-06-26,
+PAT00023,65,Male,B-,ATBUTH Bauchi,General Medicine,Fracture,,36.5 kg/m2,,5,226735.98,None,2023-01-29,no
+PAT00037,10,Male,O-,National Hospital Abuja,Neurology,Tuberculosis,94/85,27.0,299.2 mg/dL,2,121186.94,None,2023-09-03,1
+PAT00347,50,Female,B+,ABUTH Zaria,Orthopedics,Anemia,110/93,24.7,325.9,14,174786.41,Reliance,N/A,0
+PAT00241,5,Male,AB-,Aminu Kano Teaching Hospital,Neurology,Hypertension,167/116,23.3,365.2,22,475226.72,AXA Mansard,2023-12-06,0
+PAT00064,75,Male,O+,ATBUTH Bauchi,Pediatrics,Appendicitis,,31.3,151.0,25,326067.53,Reliance,2024-02-01,yes
+PAT00222,11,,O+,ABUTH Zaria,General Medicine,Diabetes Type 2,155/95,34.0,253.5,2,206531.67,,28/06/2023,Yes
+PAT00273,26,Female,O-,Aminu Kano Teaching Hospital,General Medicine,Anemia,107/80,40.2,357.4,,239248.6,Reliance,2023-11-07,1
+PAT00010,79yrs,Female,B+,National Hospital Abuja,Neurology,Appendicitis,108/85,30.7,108.4,30,350166.93,Leadway,2023-11-14,No
+PAT00155,66,Female,O+,,Orthopedics,,102/96,26.9,393.6,,310979.82,None,2023-10-30,Yes
+PAT00151,2,Female,B-,ATBUTH Bauchi,Neurology,Malaria,101/61,20.3,253.5,8,384558.73,NHIS,2023-07-03,No
+PAT00254,66,Female,O-,Lagos University Hospital,Oncology,Migraine,116/113,20.0,239.7,5,8778.8 naira,Reliance,2023-10-30,0
+PAT00286,25,Male,A+,ATBUTH Bauchi,Oncology,Fracture,148/82,190.0,97.9,12,457078.45,AXA Mansard,2023.10.05,No
+PAT00076,7,Male,O-,National Hospital Abuja,Orthopedics,Typhoid,114,43.3,308.2,20,187999.97,Leadway,2023-04-22,YES
+PAT00098,46,Male,O+,UCH Ibadan,Oncology,Malaria,119/111,35.3,274.7,0,107047.41,Hygeia,2024-04-18,YES
+PAT00307,76,Female,B-,ATBUTH Bauchi,Pediatrics,Pneumonia,146/101,21.7,364.3,26,75907.59,Hygeia,2024-06-11,yes
+PAT00005,25,Female,A-,Aminu Kano Teaching Hospital,Cardiology,Fracture,135/62,32.2,113.4,-12,"NGN185,378",NHIS,2023-09-08,
+PAT00119,21,Female,A+,ABUTH Zaria,Oncology,Tuberculosis,144/92,27.2,299.0,13,58269.66,Reliance,2024-04-03,YES
+PAT00115,31,Male,B-,ABUTH Zaria,Orthopedics,Diabetes Type 2,144/85,25.5,215.5,15,188676.84,Reliance,2023-08-22,
+PAT00199,76,Female,B+,ABUTH Zaria,Orthopedics,Fracture,139/66,28.6,357.4,4,409792.15,Reliance,2024-02-03,No
+PAT00096,3,Female,A+,Aminu Kano Teaching Hospital,Neurology,,171/113,21.2,336.6,6,162902.49,,2024-03-07,no
+PAT00276,28,Male,A+,UCH Ibadan,,Anemia,98/63,151.0,365.9,6,72345.72,Hygeia,2024-06-29,No
+PAT00258,27,,A-,LUTH Marina,Neurology,Pneumonia,102,,295.8,27,137772.32,AXA Mansard,2023-03-02,No
+PAT00224,,Male,A+,ABUTH Zaria,Cardiology,Fracture,93/70,42.2,201.4,14,"NGN238,241",Reliance,2023-02-06,yes
+PAT00176,25,Male,AB+,ATBUTH Bauchi,Orthopedics,Malaria,,34.6,135.5,12,286806.84,Hygeia,2024-07-30,1
+PAT00264,-30,Female,O+,lagos uni hospital,General Medicine,Malaria,167,16.0,330.6,26,83584.26,Hygeia,2024-11-02,1
+PAT00112,61,Female,B+,ABUTH Zaria,Oncology,Appendicitis,121,19.0,65.9,4,53654.63,Leadway,2023-06-18,YES
+PAT00298,34,Female,,,Pediatrics,,119/70,,95.5,20 days,169375.33,NHIS,03-28-2023,YES
+PAT00312,2,Female,A-,Lagos University Hospital,General Medicine,Malaria,99/62,42.5,380.5,30,219043.08,Leadway,2023-07-13,Yes
+PAT00102,8,Female,B-,UCH Ibadan,Neurology,Hypertension,123/106,31.1,264.7,,23671.7,AXA Mansard,2024-12-17,no
+PAT00225,83,mal,B-,UCH Ibadan,General Medicine,Diabetes Type 2,107/71,17.5,205.1,27,125253.27,AXA Mansard,2024-05-27,No
+PAT00162,37,Female,AB-,National Hospital Abuja,Cardiology,Anemia,113/79,35.2 kg/m2,109.1,30,16433.16,None,2024-06-20,YES
+PAT00075,-5,Male,O-,ABUTH Zaria,Neurology,Appendicitis,156,19.2,355.1,28,482195.02,Reliance,2024-08-18,1
+PAT00093,39,Female,O+,UCH Ibadan,General Medicine,Tuberculosis,137/97,18.1,363.0,13,23161.1,NHIS,2023-04-02,No
+PAT00230,20,Male,A+,UCH Ibadan,Orthopedics,Typhoid,125/93,27.1,380.0,13,111591.09,Reliance,2024-03-15,no
+PAT00130,63yrs,Female,B+,ABUTH Zaria,Orthopedics,Pneumonia,152 over 63,32.0,95.8,20,219505.13,NHIS,2023-12-25,
+PAT00036,25,Male,AB-,LUTH Marina,,Appendicitis,165/107,28.5,178.3,1,115465.18,hygeia HMO,2024-03-24,0
+PAT00168,84,,O-,,Pediatrics,Tuberculosis,104/93,17.9,318.7,10,195078.63,Leadway,2023-06-04,0
+PAT00316,560,Female,O+,LUTH Marina,,Anemia,,30.6,151.7,25,23020.02,,2024-08-31,1
+PAT00149,3,Female,O-,National Hospital Abuja,General Medicine,Anemia,149/90,35.9,85.4,24,279787.88,AXA Mansard,2024-12-23,no
+PAT00057,81,Male,O-,,General Medicine,Migraine,119/63,30.2,86.1,16,-142095.04,None,2024-02-06,yes
+PAT00315,54,Female,AB+,National Hospital Abuja,Orthopedics,Appendicitis,144/84,28.6,,0,342154.98,AXA Mansard,,Yes
+PAT00077,64,Male,B+,UCH Ibadan,Oncology,Diabetes Type 2,136/83,24.6,74.9,21,273843.19,AXA Mansard,2023-11-22,yes
+PAT00125,65,Male,AB+,ATBUTH Bauchi,Pediatrics,,132/109,25.0,208.7,22,123724.24,AXA Mansard,,No
+PAT00317,67,Female,A+,National Hospital Abuja,Oncology,Hypertension,176/106,24.7,197.2,15,400908.51,None,N/A,
+PAT00201,72,Female,AB+,Aminu Kano Teaching Hospital,Cardiology,Typhoid,140/61,16.0,81.1,4,103010.68,NHIS,2023-10-29,1
+PAT00032,69,Female,O-,National Hospital Abuja,Neurology,Tuberculosis,145/103,33.6,73.1,10,,NHIS,2023-09-26,Yes
+PAT00062,8,Female,B-,,General Medicine,Typhoid,174/90,28.7,,10,83199.45,NHIS,07-22-2024,Yes
+PAT00033,61,Female,AB-,Lagos University Hospital,,Migraine,119/113,42.0,288.0,14,387380.26,Hygeia,09/07/2024,yes
+PAT00270,50,Male,O+,Aminu Kano Teaching Hospital,,Diabetes Type 2,128/81,23.5,,29,388616.56,None,02/08/2023,
+PAT00051,60,Female,B-,Lagos University Hospital,Cardiology,Migraine,158/87,17.0,102.9,,134186.01,Leadway,2024-08-26,YES
+PAT00109,60,Male,O+,National Hospital Abuja,,Hypertension,95/97,23.6,2588.0,21,18957.4,Reliance,2023-11-06,No
+PAT00070,61,Female,AB-,Aminu Kano Teaching Hospital,Pediatrics,Appendicitis,128/95,24.8,297.9,14,16254.79,None,,0
+PAT00163,59,Female,O+,Lagos University Hospital,Orthopedics,Migraine,103/65,,119.8,28,439467.55,Hygeia,2023-06-25,0
+PAT00104,19,Male,AB-,ATBUTH Bauchi,Neurology,Anemia,151/68,28.8,62.6,10,365636.63,Hygeia,2023-09-29,0
+PAT00086,63,Female,A-,Aminu Kano Teaching Hospital,Neurology,Migraine,151/87,,357.3,8,78651.18,NHIS,2023-12-09,0
+PAT00320,55,Female,B+,UCH Ibadan,General Medicine,Hypertension,93/118,39.2,230.3,3,186551.77,Leadway,,YES
+PAT00135,61yrs,Female,O+,LUTH Marina,Oncology,Migraine,141,17.7,195.5,0,364940.92 naira,Reliance,2023-04-21,yes
+PAT00242,82,female,B-,Aminu Kano Teaching Hospital,Oncology,Tuberculosis,156/98,42.0,115.9,4,280329.69,Reliance,N/A,yes
+PAT00341,66,Female,O+,LUTH Marina,Oncology,Hypertension,129/88,24.4,344.3,6,158793.18,AXA Mansard,2023-07-31,Yes
+PAT00015,85,F,A-,Aminu Kano Teaching Hospital,Orthopedics,Anemia,127/65,30.7,294.6,22 days,410130.29,Hygeia,2023.01.15,No
+PAT00044,10,Female,B+,ATBUTH Bauchi,Neurology,Typhoid,93/86,31.5,214.9,30,341812.11,Hygeia,2024-03-07,0
